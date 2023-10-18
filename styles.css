@@ -1,0 +1,11 @@
+header {
+    background-color:skyblue;
+    padding: 20px;
+    text-align:center;
+    font-size: 18px;
+}
+body {
+    background-image: url('images/header-gif.GIF');
+    background-repeat: no-repeat;
+    background-position: center;
+}
